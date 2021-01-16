@@ -1,14 +1,14 @@
 ## WebMobi
 
-#Mobile Home page
+## Mobile Home page
 
 ### Screenshots
 
 ![Home](/hom1.png)
 
-Body Content
+## Body Content
 ![Body](/hom2.png)
 
-Dropdown Menu
+## Dropdown Menu
 ![Drop-Down](/hom-drop.png)
 
